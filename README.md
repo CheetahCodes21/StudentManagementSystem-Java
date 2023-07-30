@@ -96,7 +96,11 @@ Thank you for your interest in contributing! We look forward to seeing your idea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. The MIT License is a permissive open-source license that allows you and others to use, modify, and distribute the code within this project for both commercial and non-commercial purposes. It provides the freedom to use the software without many restrictions, while still offering some protection to the original creator.
+
+By contributing to this project, you agree to license your contributions under the same MIT License.
+
+We encourage everyone to respect and adhere to the terms of the MIT License while using and contributing to the Student Management System project. Your participation is welcome and appreciated!
 
 ## Acknowledgments
 
