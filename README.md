@@ -69,7 +69,8 @@ java StudentManagementSystem
 ## Contributing
 
 Contributions to this project are welcome! If you find any bugs or have new feature suggestions, please submit an issue or create a pull request.
-# Contributing
+
+# Why Contribute?
 
 We believe that great software is built collaboratively, and we warmly welcome contributions from the community! By contributing to the Student Management System project, you can make a positive impact on the educational experience of students and educators alike.
 
