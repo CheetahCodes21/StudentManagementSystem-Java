@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -101,7 +102,7 @@ public class StudentManagementSystem {
             System.out.println("Student with ID " + id + " not found.");
         }
     }
-
+    
     private Student findStudentById(int id) {
         for (Student student : students) {
             if (student.getId() == id) {
